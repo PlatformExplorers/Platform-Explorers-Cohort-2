@@ -76,14 +76,14 @@ Replace `{id}` with your unique student identifier (your initials, e.g., `sa`, `
 
 | Resource | Your Name |
 |----------|-----------|
-| Resource Group | `rg-novatech-{id}-prod-eastus` |
-| VNet | `vnet-novatech-{id}-eastus` |
-| WebSubnet NSG | `nsg-novatech-{id}-web` |
-| AppSubnet NSG | `nsg-novatech-{id}-app` |
-| DataSubnet NSG | `nsg-novatech-{id}-data` |
-| Virtual Machine | `vm-novatech-{id}-web01` |
-| Storage Account | `stnovatech{id}prod001` |
-| Recovery Services Vault | `rsv-novatech-{id}-prod` |
+| Resource Group | `rg-novatech-be-prod-eastus` |
+| VNet | `vnet-novatech-be-eastus` |
+| WebSubnet NSG | `nsg-novatech-be-web` |
+| AppSubnet NSG | `nsg-novatech-be-app` |
+| DataSubnet NSG | `nsg-novatech-be-data` |
+| Virtual Machine | `vm-novatech-be-web01` |
+| Storage Account | `stnovatechbeprod001` |
+| Recovery Services Vault | `rsv-novatech-be-prod` |
 
 > **Important**: Storage Account names must be globally unique, lowercase, 3–24 characters, no hyphens.
 
